@@ -1,4 +1,4 @@
-# au Software as a service
+# SaaS Agreement
 
 `Purpose` This template is for the creations of agreements for a Contractor to deliver software as a service to a Customer.
 
@@ -7,7 +7,6 @@
 `Party 2 Name` Customer
 
 `Jurisdiction` Australia
-
 
 ## Agreement
 

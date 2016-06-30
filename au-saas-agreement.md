@@ -20,6 +20,14 @@ https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
+## Setup
+
+https://github.com/CodePact/au-components/blob/widgets/service_setup.md
+
+## Support and maintenance
+
+https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
+
 ## Exclusivity
 
 ### Service is not exclusive
@@ -29,7 +37,7 @@ Contractor's supply of Service to Customer is not exclusive. Contractor may enga
 PATXXX: I don't really think we want to have an exclusivity option. It's so rare that I'm content to leave it up to free draft.
 
 
-##Availability 
+##Availability
 
 Software as a service can be subject to technical interuptions. This topic addresses how acceptable interruptions to the Service are to the Customer. Generally, the second option is only reasonable when the Service is absolutely essential to the Customer, and when the Service is expensive.
 
@@ -49,11 +57,15 @@ Contractor promises that technical interruptions to the Service due to the Contr
 
 https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
+## Failure to pay
+
+https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
+
 ## Privacy
 
 https://github.com/CodePact/au-components/blob/widgets/privacy.md
 
-## Acceptable Use
+## Acceptable use
 
 https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
@@ -102,7 +114,7 @@ Warranties are limited to those explicitly described in the agreement. No implie
 
 https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
-## Intellectual property protection 
+## Intellectual property protection
 
 https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 

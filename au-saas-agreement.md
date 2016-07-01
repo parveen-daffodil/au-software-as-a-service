@@ -60,27 +60,9 @@ https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
 https://github.com/CodePact/au-components/blob/widgets/data_rights.md
 
-## Backups
+## Backup responsibility
 
-The Customer may want the Contractor to ensure that their Data is backed up in multiple locations or formats. However, this may lie outside the scope of the Service offered by Contractor.
-
-### Contractor does not back up Data for the customer
-
-Contractor does not offer backups of Data as a component of the Service. Responsibility for Data loss lies with the Customer.
-
-### Contractor does back up Data
-
-Contractor performs backups of Data every {{backup period}}. Contractor does not accept responsibility for data loss that occurs between these backups.
-
-## Warranties
-
-### Contractor warrants they possess neccesary IP rights
-
-PATXXX - This is to serve the same purpose as the indemity we talked about. Skips two indemnities in the document.
-
-Contractor promises that it posseses all third party intellectual property rights neccesary to supply the Service to the Customer.
-
-Warranties are limited to those explicitly described in the agreement. No implied warrenties exist including fitness for a particular purpose.
+https://github.com/CodePact/au-components/blob/widgets/backup.md
 
 ## Confidentiality
 

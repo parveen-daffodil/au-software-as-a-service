@@ -28,16 +28,7 @@ https://github.com/CodePact/au-components/blob/widgets/service_setup.md
 
 https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
 
-## Exclusivity
-
-### Service is not exclusive
-
-Contractor's supply of Service to Customer is not exclusive. Contractor may engage in a similar Agreement to supply Service to other parties.
-
-PATXXX: I don't really think we want to have an exclusivity option. It's so rare that I'm content to leave it up to free draft.
-
-
-##Availability
+## Availability
 
 Software as a service can be subject to technical interuptions. This topic addresses how acceptable interruptions to the Service are to the Customer. Generally, the second option is only reasonable when the Service is absolutely essential to the Customer, and when the Service is expensive.
 

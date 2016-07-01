@@ -56,21 +56,9 @@ https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
 https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
+## Data rights
 
-## Data Rights
-
-### Data Obligations
-
-- International Storage of Data - do we just say that Customer grants Contractor the right to store data internationally?
-
-- Data remains property of Customer. Customer grants contractor a license to do anything with the data it needs to in order to meet it's obligations under the agreement
-
-- PAT: Do we actually just use the license module for the above?
-
-- Customer indemnifies Contractor against any claim by any third party that the Data infringes on the rights of that third party (IP rights, privacy rights, etc, etc)
-
-
-- PATXXX: Yes, the above item should be handled by the indemnity module. Once we have the ability to ovveride the default guidance I'll implement the above. Or is the above handled by the language in the posted information module?
+https://github.com/CodePact/au-components/blob/widgets/data_rights.md
 
 ## Backups
 
@@ -85,6 +73,7 @@ Contractor does not offer backups of Data as a component of the Service. Respons
 Contractor performs backups of Data every {{backup period}}. Contractor does not accept responsibility for data loss that occurs between these backups.
 
 ## Warranties
+
 ### Contractor warrants they possess neccesary IP rights
 
 PATXXX - This is to serve the same purpose as the indemity we talked about. Skips two indemnities in the document.

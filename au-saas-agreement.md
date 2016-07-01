@@ -28,30 +28,13 @@ https://github.com/CodePact/au-components/blob/widgets/service_setup.md
 
 https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
 
-## Planned interruption
+## Planned interruptions
 
-It's often necessary for services to be interrupted so that they can be updated or improved in some way.  Service users need to know how this kind of interruption will be managed.
+https://github.com/CodePact/au-components/blob/widgets/interruptions_planned.md
 
-### Planned Service interruption will take place after a written warning.
+## Unplanned interruptions
 
-Contractor may interrupt the provision of the Services with {{interruption warning}} days notice.
-
-## Unplanned interruption
-
-Even services that are perfectly maintained can have unanticipated problems (especially in the world of software).
-
-Generally, the more critical that a service is to a customer, the higher the performance threshold needs to be.  The second option is usually the right one to choose if the Service is essential to the Customer (and expensive).
-
-### The Service will be available to a reasonable extent.
-
-- Customer acknowledges that:
-  - interruptions as a result of third party suppliers to the Contractor are beyond the control of hte Contractor; and
-  - the Services may be occasionally interrupted on account of technical difficulties.
-- Contractor will use its reasonable efforts to remedy interruptions to the Services as soon as is reasonably practicable.
-
-### Compensation for interruptions to the Services will be governed by an SLA.
-
-Contractor will compensate the Customer for interruptions to the Service in accordance with the SLA at {{sla url}}.
+https://github.com/CodePact/au-components/blob/widgets/interruptions_unplanned.md
 
 ## Service accounts
 

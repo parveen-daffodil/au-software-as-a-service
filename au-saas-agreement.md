@@ -28,23 +28,32 @@ https://github.com/CodePact/au-components/blob/widgets/service_setup.md
 
 https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
 
-## Availability
+## Planned interruption
 
-Software as a service can be subject to technical interuptions. This topic addresses how acceptable interruptions to the Service are to the Customer. Generally, the second option is only reasonable when the Service is absolutely essential to the Customer, and when the Service is expensive.
+It's often necessary for services to be interrupted so that they can be updated or improved in some way.  Service users need to know how this kind of interruption will be managed.
 
-### Reasonable availability of Service
+### Planned Service interruption will take place after a written warning.
 
-- Reasonable effort to ensure service is available during normal business hours (this is pretty soft in my opinion. May want a spectrum of options for this.)
-- Service occasionaly unavailable for reasons of maintainance/development/force majure
-- Some features of the Service may rely of third party service providers. Unless otherwise mentioned in the agreement, Contractor does not promise that these features will always be available.
+Contractor may interrupt the provision of the Services with {{interruption warning}} days notice.
 
-### Interruptions to the Service are strictly limited
+## Unplanned interruption
 
-PATXXX: You will need to make sure that the contractor is only accepting responsibility for stuff that is under their control here - it's tricky. Talk to me.
+Even services that are perfectly maintained can have unanticipated problems (especially in the world of software).
 
-Contractor promises that technical interruptions to the Service due to the Contractor will be limited to no more than {{permitted interuption time}} per {{interuption term}}
+Generally, the more critical that a service is to a customer, the higher the performance threshold needs to be.  The second option is usually the right one to choose if the Service is essential to the Customer (and expensive).
 
-## Account Authorisation
+### The Service will be available to a reasonable extent.
+
+- Customer acknowledges that:
+  - interruptions as a result of third party suppliers to the Contractor are beyond the control of hte Contractor; and
+  - the Services may be occasionally interrupted on account of technical difficulties.
+- Contractor will use its reasonable efforts to remedy interruptions to the Services as soon as is reasonably practicable.
+
+### Compensation for interruptions to the Services will be governed by an SLA.
+
+Contractor will compensate the Customer for interruptions to the Service in accordance with the SLA at {{sla url}}.
+
+## Service accounts
 
 https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 

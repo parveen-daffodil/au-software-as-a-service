@@ -60,6 +60,10 @@ https://github.com/CodePact/au-components/blob/widgets/posted_content.md
 
 https://github.com/CodePact/au-components/blob/widgets/data_rights.md
 
+## Data disclosure
+
+https://github.com/CodePact/au-components/blob/widgets/data_disclosure.md
+
 ## Backup responsibility
 
 https://github.com/CodePact/au-components/blob/widgets/backup.md

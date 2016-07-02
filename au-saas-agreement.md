@@ -1,8 +1,8 @@
 # SaaS Agreement
 
-`Purpose` This template is for the creations of agreements for a Contractor to deliver software as a service to a Customer.
+`Purpose` This template is for the creations of agreements for a Provider to deliver software as a service to a Customer.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Provider 
 
 `Party 2 Name` Customer
 
@@ -10,7 +10,7 @@
 
 ## Agreement
 
-This document describes an Agreement for a Customer to engage a Contractor the deliver the Service.
+This document describes an Agreement for a Customer to engage a Provider the deliver the Service.
 
 ## Agreement duration
 

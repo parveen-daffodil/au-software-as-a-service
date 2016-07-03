@@ -98,7 +98,7 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Boilerplate
 
-https://github.com/CodePact/au-components/blob/widgets/end_agreement.md
+https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Variables
 

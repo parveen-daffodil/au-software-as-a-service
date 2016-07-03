@@ -100,6 +100,10 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
+## Definitions
+
+https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
+
 ## Variables
 
 https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md

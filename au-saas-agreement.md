@@ -42,7 +42,7 @@ https://github.com/CodePact/au-components/blob/widgets/digital_accounts.md
 
 ## Failure to pay
 
-https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
+https://github.com/CodePact/au-components/blob/widgets/payment_failure.md
 
 ## Privacy
 
@@ -50,7 +50,7 @@ https://github.com/CodePact/au-components/blob/widgets/privacy.md
 
 ## Acceptable use
 
-https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
+https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
 
 ## Posted Information
 
@@ -66,7 +66,7 @@ https://github.com/CodePact/au-components/blob/widgets/data_disclosure.md
 
 ## Backup responsibility
 
-https://github.com/CodePact/au-components/blob/widgets/backup.md
+https://github.com/CodePact/au-components/blob/widgets/data_backup.md
 
 ## Confidentiality
 

@@ -110,4 +110,4 @@ https://github.com/pjbrow/recursive_parser/blob/master/library_variables.md
 
 ## Widgets
 
-https://github.com/pjbrow/recursive_parser/blob/master/library_widgets.json
+https://github.com/pjbrow/au-defs-wdgts/blob/master/saas-widgets.json

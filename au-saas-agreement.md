@@ -84,9 +84,13 @@ https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
-## Limits on Suing
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
+
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 ## Cancellation for breach
 
@@ -102,16 +106,16 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/saas-defs.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/saas-defs.md
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_definitions.md
 
 ## Variables
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_variables.md
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_variables.md
 
 ## Widgets
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/saas-widgets.json
+https://github.com/CodePact/au-defs-wdgts/blob/master/saas-widgets.json
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
+https://github.com/CodePact/au-defs-wdgts/blob/master/library_widgets.json

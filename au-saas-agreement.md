@@ -10,7 +10,7 @@
 
 ## Agreement
 
-This document describes an Agreement for a Customer to engage a Provider to deliver the Service.
+This document describes an Agreement for {{party 2}} to engage {{party 1}} to deliver the Service.
 
 ## Agreement duration
 

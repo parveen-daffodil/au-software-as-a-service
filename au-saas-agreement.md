@@ -8,17 +8,17 @@
 
 `Jurisdiction` Australia
 
-## Agreement
+## Payment Calculation
 
-This document describes an Agreement for {{party 2}} to engage {{party 1}} to deliver the Service.
+https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
-## Agreement duration
+## Payment Method
 
-https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+https://github.com/CodePact/au-components/blob/master/payment_method.md
 
-## Agreement changes
+## Failure to pay
 
-https://github.com/CodePact/au-components/blob/master/agreement_changes.md
+https://github.com/CodePact/au-components/blob/master/payment_failure.md
 
 ## Setup
 
@@ -39,10 +39,6 @@ https://github.com/CodePact/au-components/blob/master/interruptions_unplanned.md
 ## Service accounts
 
 https://github.com/CodePact/au-components/blob/master/digital_accounts.md
-
-## Failure to pay
-
-https://github.com/CodePact/au-components/blob/master/payment_failure.md
 
 ## Privacy
 
@@ -76,14 +72,6 @@ https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 https://github.com/CodePact/au-components/blob/master/ip_protection.md
 
-## Payment Calculation
-
-https://github.com/CodePact/au-components/blob/master/payment_calculation.md
-
-## Payment Method
-
-https://github.com/CodePact/au-components/blob/master/payment_method.md
-
 ## Claim limits
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
@@ -91,6 +79,18 @@ https://github.com/CodePact/au-components/blob/master/limitation.md
 ## Covering costs
 
 https://github.com/CodePact/au-components/blob/master/indemnity.md
+
+## Agreement
+
+This document describes an Agreement for {{party 2}} to engage {{party 1}} to deliver the Service.
+
+## Agreement duration
+
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+
+## Agreement changes
+
+https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 ## Cancellation for breach
 

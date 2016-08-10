@@ -1,6 +1,6 @@
 # SaaS Agreement
 
-`Purpose` This template is for the creation of agreements for a Provider to deliver software as a service to a Customer(v1.1.2).
+`Purpose` This template is for the creation of agreements for a Provider to deliver software as a service to a Customer(v1.1.3).
 
 `Party 1 Name` Provider 
 
